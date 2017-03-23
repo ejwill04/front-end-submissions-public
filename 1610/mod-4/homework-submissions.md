@@ -12,7 +12,6 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Web Scraping](http://frontend.turing.io/lessons/web-scraping-workshop.html) - Link to README.md for your web scraping workshop
 * [Wednesday Student Spike](http://frontend.turing.io/lessons/security-with-jwts.html) - Link to completed repo from the tutorial
-* [Link to UI Challenge CodePen](http://codepen.io/atideman/pen/MpGRMP)
 
 ### Annastasia Psitos
 * [Express Tutorial](https://github.com/apsitos/Express_Tutorial)
@@ -39,6 +38,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Express Tutorial](https://github.com/ejwill04/express-tutorial)
 * [JWT Tutorial](https://github.com/ejwill04/JWT-tutorial)
+* [Carousel Cards](https://codepen.io/ejwill04/pen/WpJBqW?editors=0010)
 
 ### Eric Sayler
 * [Express Tutorial](https://github.com/esayler/node-express-tutorial)
